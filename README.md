@@ -5,36 +5,28 @@ including the number of streams; and the view count of the official music video 
 ![Spotify_1](https://github.com/user-attachments/assets/5d931578-e434-4350-a0fb-0a60ee7e5ca8)
 
 Spotify Columns:
-track_name: Name of the song or track.
-artist_name: Name of the artist or band who performed the track.
-album_name: The album to which the track belongs.
-popularity: Spotify's calculated popularity score for the track (0-100).
-release_date: Date when the track or album was released.
-duration_ms: Length of the track in milliseconds.
-danceability: Measure of how suitable a track is for dancing, ranging from 0.0 to 1.0.
-energy: A measure from 0.0 to 1.0 representing the intensity and activity of the track.
-key: The musical key in which the track is composed (0 = C, 1 = C♯/D♭, and so on).
-loudness: Average loudness of the track in decibels (dB).
-mode: Indicates whether the track is in a major (1) or minor (0) key.
-speechiness: Amount of spoken words in a track, ranging from 0.0 to 1.0.
-acousticness: Confidence measure from 0.0 to 1.0 of whether the track is acoustic.
-instrumentalness: Predicts whether a track contains no vocals. A higher value means the track is more instrumental.
-liveness: Detects the presence of an audience in the recording. Higher values indicate more "live" performance.
-valence: Describes the musical positiveness of a track. Tracks with high valence sound more positive (happy, cheerful), and tracks with low valence sound more negative (sad, angry).
+Track: Name of the song or track.
+Artist: Name of the artist or band who performed the track.
+Duration_ms: Length of the track in milliseconds.
+Danceability: Measure of how suitable a track is for dancing, ranging from 0.0 to 1.0.
+Energy: A measure from 0.0 to 1.0 representing the intensity and activity of the track.
+Key: The musical key in which the track is composed (0 = C, 1 = C♯/D♭, and so on).
+Loudness: Average loudness of the track in decibels (dB).
+Speechiness: Amount of spoken words in a track, ranging from 0.0 to 1.0.
+Acousticness: Confidence measure from 0.0 to 1.0 of whether the track is acoustic.
+Instrumentalness: Predicts whether a track contains no vocals. A higher value means the track is more instrumental.
+Liveness: Detects the presence of an audience in the recording. Higher values indicate more "live" performance.
+Valence: Describes the musical positiveness of a track. Tracks with high valence sound more positive (happy, cheerful), and tracks with low valence sound more negative (sad, angry).
 tempo: The overall speed or pace of the track in beats per minute (BPM).
 
 YouTube Columns:
-
-video_id: Unique identifier for each YouTube video.
-title: Title of the YouTube video.
-channel_name: Name of the channel that uploaded the video.
-category: Video category assigned by YouTube (e.g., Music, Entertainment, Education).
-views: The total number of views the video has received.
-likes: The total number of likes on the video.
-duration: Length of the video in minutes or seconds.
-tags: Keywords associated with the video for search optimization.
-thumbnail_link: Link to the thumbnail image of the video.
-description: Text description provided by the uploader to describe the video.
+Title: Title of the YouTube video.
+Channel_name: Name of the channel that uploaded the video.
+Category: Video category assigned by YouTube (e.g., Music, Entertainment, Education).
+Views: The total number of views the video has received.
+Likes: The total number of likes on the video.
+Comments: The total number of comments on video
+Description: Text description provided by the uploader to describe the video.
 
 
 Project Title:
