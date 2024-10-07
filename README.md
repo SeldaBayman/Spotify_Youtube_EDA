@@ -24,6 +24,7 @@ valence: Describes the musical positiveness of a track. Tracks with high valence
 tempo: The overall speed or pace of the track in beats per minute (BPM).
 
 YouTube Columns:
+
 video_id: Unique identifier for each YouTube video.
 title: Title of the YouTube video.
 channel_name: Name of the channel that uploaded the video.
@@ -59,15 +60,14 @@ YouTube Content Insights:
 Top video categories and creators with highest engagement
 Correlation between video views, likes, and dislikes
 Analysis of video upload frequency and its impact on channel growth.
+![Phyton_8](https://github.com/user-attachments/assets/00364314-c664-4f63-ad35-73cc21bd7755)
 
 Cross-Platform Comparisons:
 Comparing content engagement patterns between audio (Spotify) and video (YouTube)
 Examining how content consumption behaviors differ between music listeners and video viewers
 
-![Phyton_5](https://github.com/user-attachments/assets/f514853a-c1bd-49c2-96a7-4490a62d9bb6)
-![Phyton_9](https://github.com/user-attachments/assets/8e2201f6-61c2-4b37-a383-df5e90f592ee)
-![Phyton_5](https://github.com/user-attachments/assets/ba4dd632-90b3-4eb7-a492-7c53ae917107)
-![Phyton_6](https://github.com/user-attachments/assets/ce529787-28df-42f5-a3cb-2331dcbb2fa8)
+![Phyton_1](https://github.com/user-attachments/assets/b5067f93-7e45-4bec-95bc-b25f2ad24d61)
+
 
 Conclusion:
 This EDA provided a detailed comparison of user engagement across two leading digital platforms. 
