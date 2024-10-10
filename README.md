@@ -74,8 +74,7 @@ Explored Spotify metric correlations: Is there a link between song length and po
 Compared artists across YouTube and Spotify: Who’s topping the charts on each platform? 🤔📊
 Studied the correlations between likes, views, and comments on YouTube; some videos get tons of views but little interaction! 📹❤️💬
 
-![Phyton_8](https://github.com/user-attachments/assets/6931b650-a221-461a-92d6-59f1151cad54)
-
+![Phyton_11](https://github.com/user-attachments/assets/b44c9896-b9b9-4206-aa15-2d33346863bd)
 
 💡 Key Findings:
 
